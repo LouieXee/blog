@@ -1,2 +1,3 @@
 # blog
-记录平时的开发中的经验和总结
+
+* [markdown 语法](http://wowubuntu.com/markdown/basic.html)
